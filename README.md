@@ -1,12 +1,9 @@
-### Hi there :)
-<!---
+### Hey guys, I am Ajay 🙂
+- 🏫 I'm a student at PES University 
 - 🔭 I’m currently working on NeuroEvolution in AutoMl, BPPL smart app and a few other small projects on the side
 - 🌱 I’m currently learning React, Spring and NeuroEvolution
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Designing Web pages :/
+- 💬 Ask me about ML
+- 📫 How to reach me:<br> [LinkedIn](https://www.linkedin.com/in/ajay-prem-1483661a6/)<br>  
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayprem&show_icons=true&theme=dracula&&count_private=true)
