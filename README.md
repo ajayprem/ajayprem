@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayprem&show_icons=true&theme=radical&&count_private=true)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayprem&show_icons=true&theme=dracula&&count_private=true)
