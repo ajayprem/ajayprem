@@ -1,4 +1,4 @@
-### Hey guys, I am Ajay 🙂
+### Hey guys, Ajay here🙂
 - 🏫 I'm a student at PES University 
 - 🔭 I’m currently working on NeuroEvolution in AutoMl, BPPL smart app and a few other small projects on the side
 - 🌱 I’m currently learning React, Spring and NeuroEvolution
